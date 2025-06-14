@@ -15,8 +15,9 @@ In this exercise, I acted as a security analyst investigating a Denial-of-Servic
 | Folder | Description |
 |---------|-------------|
 | `activity-report/` | Final incident report for the activity and template response|
-| `evidence/` | Wireshark sample logs and screenshots demonstrating the attack |
+| `wireshark-logs/` | Wireshark sample logs and screenshots demonstrating the attack |
 | `supporting-materials/` | Course-provided templates, the scenario and guides |
+| `notes/` | Optional notes which provide suggestions to prevent future attacks |
 ---
 
 ## Summary
