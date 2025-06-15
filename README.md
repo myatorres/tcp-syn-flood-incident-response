@@ -29,6 +29,4 @@ In this scenario, a TCP SYN flood overwhelmed the company's web server, preventi
 
 ---
 
-## License
-
-This repository is for educational and portfolio purposes only. Provided templates and materials are owned by the course provider.
+This project is for educational purposes only as part of a course lab activity.
