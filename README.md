@@ -1,6 +1,6 @@
 # TCP SYN Flood Incident Response — Portfolio Activity
 
-This repository contains my response to a simulated TCP SYN flood attack scenario, as part of my cybersecurity learning portfolio.
+This repository contains my response to a simulated TCP SYN flood attack scenario, as part of the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
 
 ---
 
@@ -29,4 +29,4 @@ In this scenario, a TCP SYN flood overwhelmed the company's web server, preventi
 
 ---
 
-This project is for educational purposes only as part of a course lab activity.
+*This project is for educational purposes only as part of a course lab activity.*
